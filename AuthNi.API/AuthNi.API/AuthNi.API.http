@@ -1,0 +1,6 @@
+@AuthNi.API_HostAddress = http://localhost:5020
+
+GET {{AuthNi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
